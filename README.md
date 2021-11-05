@@ -46,6 +46,6 @@ https://t.me/cybershbd
 
 
 # Contact Admin
-https://fb.com/taarif.hossen.shuvo
+https://fb.com/tasrif.hossen.shuvo
 # Devoloped By:
 # MD TASRIF HOSSEN
