@@ -19,24 +19,24 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 2. E-Mail Bombing
 # -------Installation------
-$apt update
+$ apt update -y
 
-$apt upgrade
+$ apt upgrade -y
 
-$pkg install git
+$ pkg install git
 
-$pkg install python
+$ pkg install python
 
-$git clone https://github.com/ShTasrif/cybersh
+$ git clone https://github.com/ShTasrif/cybersh
 
 # Usage:
-$cd $HOME
+$ cd $HOME
 
-$ls
+$ ls
 
-$cd cybersh
+$ cd cybersh
 
-$python main.py
+$ python main.py
 
 # Single command run
 cd $HOME ; cd cybersh ; python main.py
