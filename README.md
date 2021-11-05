@@ -44,7 +44,8 @@ cd $HOME ; cd cybersh ; python main.py
 # Telegram
 https://t.me/cybershbd
 
-# Screenshot
 
 # Contact Admin
-fb.com/taarif.hossen.shuvo
+https://fb.com/taarif.hossen.shuvo
+# Devoloped By:
+# MD TASRIF HOSSEN
