@@ -38,6 +38,10 @@ $ cd cybersh
 
 $ python main.py
 
+# Single command install
+
+apt update -y ; apt upgrade -y ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
+
 # Single command run
 cd $HOME ; cd cybersh ; python main.py
 
