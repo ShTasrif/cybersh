@@ -40,7 +40,7 @@ $ python main.py
 
 # Single command install
 
-apt update -y ; apt upgrade -y ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
+apt update -y ; apt upgrade -y ; pkg install python git -y ; pip install requests ; pip install mechanize ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
 
 # Single command run
 cd $HOME ; cd cybersh ; python main.py
