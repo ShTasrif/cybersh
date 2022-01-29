@@ -1,7 +1,3 @@
-# ThanksTo
-```
-69 Indonesian Coders❤ ; Azim Mahmud ; Niki Cyber ; Hunter Alamin ; Tahmid Rayat
-```
 # Disclaimer:
 This tool is for educational purposes only ! Don't use this to take revenge I will not be responsible for any misuse.
 
@@ -42,12 +38,15 @@ $ cd cybersh
 
 $ python main.py
 
-# Single command install
+# Single command install 
+```
+apt update -y ; apt upgrade -y ; pkg install got ; pkg install python ; pip install requests ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
+```
 
-```apt update -y ; apt upgrade -y ; pkg install python git -y ; pip install requests ; pip install mechanize ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py```
-
-# Single command run
+# Single Command Run
+```
 cd $HOME ; cd cybersh ; python main.py
+```
 
 # Telegram
 https://t.me/cybershbd
