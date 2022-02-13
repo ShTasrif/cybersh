@@ -38,11 +38,15 @@ $ cd cybersh
 
 $ python main.py
 
+
 # Single command install 
 ```
 apt update -y ; apt upgrade -y ; pkg install got ; pkg install python ; pip install requests ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
 ```
-
+# Single command install 
+```
+cybersh
+```
 # Single Command Run
 ```
 cd $HOME ; cd cybersh ; python main.py
