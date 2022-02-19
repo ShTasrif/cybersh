@@ -41,7 +41,7 @@ $ python main.py
 
 # Single command install 
 ```
-apt update -y ; apt upgrade -y ; pkg install git ; pkg install python ; pip install requests ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
+apt update -y ; apt upgrade -y ; pkg install git -y ; pkg install python -y ; pip install requests ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
 ```
 # Run
 ```
