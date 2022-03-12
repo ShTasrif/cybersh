@@ -18,6 +18,8 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 1. SMS Bombing
 
 2. E-Mail Bombing
+
+3. Termux Design
 # -------Installation------
 $ apt update -y
 
@@ -43,11 +45,11 @@ $ python main.py
 ```
 apt update -y ; apt upgrade -y ; pkg install git -y ; pkg install python -y ; pip install requests ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
 ```
-# Run
+# Short CMD Run
 ```
 cybersh
 ```
-# Single Command Run
+# Run
 ```
 cd $HOME ; cd cybersh ; python main.py
 ```
