@@ -53,6 +53,8 @@ cybersh
 ```
 cd $HOME ; cd cybersh ; python main.py
 ```
+# Visitors:
+![Visitor Count](https://profile-counter.glitch.me/ShTasrif/count.svg)
 
 # Telegram
 https://t.me/cybershbd
