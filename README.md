@@ -25,6 +25,8 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 5. DDoS Attackers
 
+6. Facebook Cloner
+
 # -------Installation------
 $ apt update -y
 
