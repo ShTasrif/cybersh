@@ -27,16 +27,33 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 6. Facebook Cloner
 
-# -------Installation------
-$ apt update -y
 
-$ apt upgrade -y
+# ------Installation-----
+## Install on Termux :
+```
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pkg install python2 -y
+pkg install git -y
+pkg install pip
+pkg install pip2
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/ShTasrif/cybersh
+```
+## Install on Terminal :
+```
+apt update && apt upgrade
+apt install python
+apt install python2
+apt install git
+apt install pip
+apt install pip2
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/ShTasrif/cybersh
+```
 
-$ pkg install git
-
-$ pkg install python
-
-$ git clone https://github.com/ShTasrif/cybersh
 
 # Usage:
 $ cd $HOME
@@ -76,5 +93,3 @@ https://fb.com/H.CyberSH
 # MD TASRIF HOSSEN
 
 # Screenshort:
-![1](https://user-images.githubusercontent.com/85736436/141134716-5f4ece41-bfa5-4d42-a3dd-a7e8f342cfdb.jpg)
-![2](https://user-images.githubusercontent.com/85736436/141134698-2c0c1a45-1b85-45c9-b079-9a87bc354d6b.jpg)
