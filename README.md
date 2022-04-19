@@ -83,13 +83,12 @@ cd $HOME ; cd cybersh ; python main.py
 # Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/ShTasrif/count.svg)
 
-# Telegram
-https://t.me/cybershbd
 
-
-# Contact Admin
-https://fb.com/H.CyberSH
-
+# Contact Info 
+ 1. [Telegram Group](https://t.me/cybershbd)
+ 2. [Admin Facebook](https://fb.com/H.CyberSH)
+ 3. [Facebook Page](https://fb.com/cybershbd)
+ 4. [Facebook Group](https://www.facebook.com/groups/356065192713979)
 # Devoloped By:
 # MD TASRIF HOSSEN
 
