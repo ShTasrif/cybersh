@@ -30,6 +30,11 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 
 # ------Installation-----
+# Install for New User
+```
+curl https://raw.githubusercontent.com/ShTasrif/cybersh/main/pkg.py > pkg.py ; pkg install python -y ; python pkg.py
+```
+
 ## Install on Termux :
 ```
 pkg update -y && pkg upgrade -y
@@ -76,10 +81,7 @@ apt update -y ; apt upgrade -y ; pkg install git -y ; pkg install python -y ; pi
 ```
 cybersh
 ```
-# Run
-```
-cd $HOME ; cd cybersh ; python main.py
-```
+
 # Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/ShTasrif/count.svg)
 
