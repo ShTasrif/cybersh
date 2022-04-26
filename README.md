@@ -51,7 +51,7 @@ git clone https://github.com/ShTasrif/cybersh
 ```
 apt update && apt upgrade
 apt install python
-apt install python2
+apt install python3
 apt install git
 apt install pip
 apt install pip2
@@ -71,6 +71,8 @@ $ cd cybersh
 $ pip install -r requirements.txt
 
 $ python main.py
+
+$ python3 main.py [Linux User]
 
 
 # Single command install 
