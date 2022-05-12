@@ -28,6 +28,9 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 6. Facebook Cloner
 
+7. URL Shortener
+
+8. CamPhish
 
 # ------Installation-----
 # Install for New User
