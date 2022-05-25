@@ -73,6 +73,8 @@ $ cd cybersh
 
 $ pip install -r requirements.txt
 
+$ python pkg.py
+
 $ python main.py
 
 $ python3 main.py [Linux User]
@@ -80,7 +82,7 @@ $ python3 main.py [Linux User]
 
 # Single command install 
 ```
-apt update -y ; apt upgrade -y ; pkg install git -y ; pkg install python -y ; pip install requests ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python main.py
+apt update -y ; apt upgrade -y ; pkg install git -y ; pkg install python -y ; pip install requests ; git clone https://github.com/ShTasrif/cybersh ; cd cybersh ; python pkg.py
 ```
 # Short CMD Run
 ```
