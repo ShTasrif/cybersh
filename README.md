@@ -35,7 +35,7 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 # ------Installation-----
 # Install for New User
 ```
-curl https://raw.githubusercontent.com/ShTasrif/cybersh/main/pkg.py > pkg.py ; pkg install python -y ; python pkg.py
+yes | pkg i python; curl https://raw.githubusercontent.com/ShTasrif/cybersh/main/pkg.py | python
 ```
 
 ## Install on Termux :
