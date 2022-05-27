@@ -5,14 +5,14 @@ if [[ ! $(command -v ruby) ]]; then
 	sleep .1
 	pkg install ruby -y
 elif [[ $(command -v ruby) ]]; then
-	echo 'Ruby is already installed..'
+	echo ''
 fi
 if [[ ! $(command -v lolcat) ]]; then
 	echo "Installing lolcat..."
 	sleep .1
 	gem install lolcat > /dev/null 2>&1
 elif [[ $(command -v lolcat) ]]; then
-	echo "Lolcat is already installed.."
+	echo ""
 fi
 #python3 .cybersh.py
 
