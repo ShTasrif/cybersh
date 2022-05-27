@@ -3,7 +3,7 @@
 if [[ ! $(command -v ruby) ]]; then
 	echo 'Installing ruby...'
 	sleep .1
-	pkg install ruby -y
+	pkg install ruby -y > /dev/null 2>&1
 elif [[ $(command -v ruby) ]]; then
 	echo ''
 fi
