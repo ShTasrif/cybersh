@@ -32,6 +32,8 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 8. CamPhish
 
+9. Facebook Downloader 
+
 # ------Installation-----
 # Install for New User
 ```
