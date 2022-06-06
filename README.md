@@ -66,20 +66,19 @@ git clone https://github.com/ShTasrif/cybersh
 ```
 
 
-# Usage:
-$ cd $HOME
+# Run Termux:
+```
+cd cybersh 
+pip install -r requirements.txt
+python pkg.py
+python main.py
+```
 
-$ ls
-
-$ cd cybersh 
-
-$ pip install -r requirements.txt
-
-$ python pkg.py
-
-$ python main.py
-
-$ python3 main.py [Linux User]
+# Run Linux/other:
+```
+cd cybersh 
+python3 main.py
+```
 
 
 # Single command install 
@@ -101,7 +100,7 @@ cybersh
  3. [Facebook Page](https://fb.com/cybershbd)
  4. [Facebook Group](https://www.facebook.com/groups/356065192713979)
 # Devoloped By:
-# MD TASRIF HOSSEN
+# SH TASRIF
 
 # Screenshort:
 ![Screenshot_2022-04-15-16-29-37-364_com termux](https://user-images.githubusercontent.com/85736436/163632522-59bbf320-3c08-4991-841f-e7aa2e9c1254.jpg)
