@@ -99,7 +99,8 @@ cybersh
  2. [Admin Facebook](https://fb.com/H.CyberSH)
  3. [Facebook Page](https://fb.com/cybershbd)
  4. [Facebook Group](https://www.facebook.com/groups/356065192713979)
-# Devoloped By: SH TASRIF
+# Devoloped By: 
+SH TASRIF
 
 
 # Screenshort:
