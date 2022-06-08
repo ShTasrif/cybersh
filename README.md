@@ -100,7 +100,7 @@ cybersh
  3. [Facebook Page](https://fb.com/cybershbd)
  4. [Facebook Group](https://www.facebook.com/groups/356065192713979)
 # Devoloped By: 
-SH TASRIF
+# SH TASRIF
 
 
 # Screenshort:
