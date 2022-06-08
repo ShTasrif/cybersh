@@ -103,4 +103,4 @@ cybersh
 # SH TASRIF
 
 # Screenshort:
-![Screenshot_2022-04-15-16-29-37-364_com termux](https://user-images.githubusercontent.com/85736436/163632522-59bbf320-3c08-4991-841f-e7aa2e9c1254.jpg)
+
