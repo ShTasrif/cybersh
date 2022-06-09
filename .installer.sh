@@ -14,13 +14,7 @@ if [[ ! $(command -v lolcat) ]]; then
 elif [[ $(command -v lolcat) ]]; then
 	echo " "
 
-fi
-if [[ ! $(command -v mpv) ]]; then
-	echo "Installing fish..."
-	sleep .1
-	apt install fish -y > /dev/null 2>&1
-elif [[ $(command -v lolcat) ]]; then
-	echo " "
+
 
 fi
 if [[ ! $(command -v mpv) ]]; then
