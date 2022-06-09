@@ -33,6 +33,10 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 9. Facebook Downloader 
 
+10. Temp Email 
+
+11. Tools Encryptor 
+
 # ------Installation-----
 # Install for New User
 ```
