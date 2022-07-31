@@ -1,18 +1,28 @@
+<div align="center">
+<a href="https://www.github.com/ShTasrif"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/badge/Version-v1.2.3-dark?style=for-the-badge" alt="version" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/stars/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh/fork"><img src="https://img.shields.io/github/forks/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/watchers/itzakx21/TOXIC-WORLD?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzakx21/TOXIC-WORLD?logo=license&style=for-the-badge" alt="total watchers" ></a>
+</div>
+
 # Disclaimer:
 This tool is for educational purposes only ! Don't use this to take revenge I will not be responsible for any misuse.
 
 # Tested On:
 •Kali Linux
 
-•Termux
+• Termux
 
-•Ubuntu
+• Ubuntu
 
-•Parrot Sec OS
+• Parrot Sec OS
 
-•Kali nethunter
+• Kali nethunter
 
-•Alpine linux
+• Alpine linux
+
 
 # Features:
 1. SMS Bombing
