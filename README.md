@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://www.github.com/ShTasrif"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
+<a href="https://www.github.com/ShTasrif"><img src="https://img.shields.io/github/followers/ShTasrif?logo=GITHUB&style=for-the-badge" alt="version" ></a>
 <a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/badge/Version-v1.2.3-dark?style=for-the-badge" alt="version" ></a>
-<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/stars/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
-<a href="https://www.github.com/ShTasrif/cybersh/fork"><img src="https://img.shields.io/github/forks/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
-<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/watchers/itzakx21/TOXIC-WORLD?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
-<a href="https://www.github.com/ShTasrif/cybersh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzakx21/TOXIC-WORLD?logo=license&style=for-the-badge" alt="total watchers" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/stars/ShTasrif/cybersh?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh/fork"><img src="https://img.shields.io/github/forks/ShTasrif/cybersh?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/watchers/ShTasrif/cybersh?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
+<a href="https://www.github.com/ShTasrif/cybersh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ShTasrif/cybersh?logo=license&style=for-the-badge" alt="total watchers" ></a>
 </div>
 
 # Disclaimer:
