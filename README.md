@@ -47,6 +47,8 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 11. Tools Encryptor 
 
+12. IP TO INFO
+
 # ------Installation-----
 # Install for New User
 ```
