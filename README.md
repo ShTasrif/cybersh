@@ -118,6 +118,7 @@ cybersh
 
 
 # Screenshort:
-![IMG_20220706_003300](https://user-images.githubusercontent.com/85736436/177393035-fb09027d-69d6-415b-9800-826b7d520405.jpg)
+![IMG_20221120_120310](https://user-images.githubusercontent.com/85736436/202888395-50f9df65-0927-4dd2-83b8-32572215704d.jpg)
+
 
 
