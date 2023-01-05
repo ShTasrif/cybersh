@@ -2,9 +2,10 @@
 
              🔰 CyberSH Tools Update ✅ 🔰
 
-                 ⚙ Version : 1.3.2
-                What's New In 1.3.2❓ :
+                 ⚙ Version : 1.3.3
+                What's New In 1.3.3❓ :
   
-              🔰 Customized UI 🔰
-              🔰 Adding Surveillance 🔰
-              🔰 Add SMS Bombing API 🔰
+              🔰 Added Offline Page 🔰
+              🔰 Added permanent Approval 🔰
+              🔰 Added SMS Bombing API 🔰
+              🔰 Total : 15 API 🔰
