@@ -5,7 +5,5 @@
                  ⚙ Version : 1.3.3
                 What's New In 1.3.3❓ :
   
-              🔰 Added Offline Page 🔰
-              🔰 Added permanent Approval 🔰
-              🔰 Added SMS Bombing API 🔰
-              🔰 Total : 15 API 🔰
+              🔰 Added Number To Info 🔰
+              🔰 New Option No 17 🔰
