@@ -9,4 +9,4 @@
               🔰 Added User Ban System 🔰
               🔰 Fix Some Bugs & Issues 🔰
 
-📢Note: If someone gives wrong information (name-email) then the device will be banned.❌
+📢Note: If someone gives wrong information (name-email) then the device will be banned.❌ Stay With CyberSH
