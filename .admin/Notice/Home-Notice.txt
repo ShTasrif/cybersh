@@ -2,8 +2,11 @@
 
              🔰 CyberSH Tools Update ✅ 🔰
 
-                 ⚙ Version : 1.3.4
-                What's New In 1.3.4❓ :
+                 ⚙ Version : 1.3.5
+                What's New In 1.3.5❓ :
   
-              🔰 Added Number To Info 🔰
-              🔰 New Option No 17 🔰
+              🔰 Added Bombing Safe List 🔰
+              🔰 Added User Ban System 🔰
+              🔰 Fix Some Bugs & Issues 🔰
+
+📢Note: If someone gives wrong information (name-email) then the device will be banned.❌
