@@ -49,6 +49,16 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 12. IP TO INFO
 
+13. Number To Information
+
+14. Kali Nethunter
+
+16. BDIX Finder
+
+17. AnonShare
+
+18. Age Calculator 
+
 # ------Installation-----
 # Install for New User
 ```
