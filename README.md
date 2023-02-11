@@ -59,6 +59,15 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 18. Age Calculator 
 
+19. Number To Info 
+
+20. YouTube Tag Finder
+
+21. Description Finder
+
+22. Download Thumbnail
+
+
 # ------Installation-----
 # Install for New User
 ```
