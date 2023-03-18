@@ -1,8 +1,9 @@
-data = {
-  "Name": "cybersh",
-  "Version": "1.3.6",
-  "Off_Notice": "New York",
+{
+  "ToolName": "CYBER SH",
+  "Owner": "SH TASRIF",
+  "Version": "1.0.0",
   "Status": "ON",
-  "Owner": "SH TASRIF"
-  
+  "HomeLink": "https://google.com",
+  "Themes": "1",
+  "OffNotice": "Our tools is temporarily off. We are open this tools    very soon. Stay with CyberSH",
 }
