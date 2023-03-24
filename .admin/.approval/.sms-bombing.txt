@@ -8,7 +8,7 @@
 4.14.117-perf-g02abc55 = "noman"
 4.4.177-22825772 = "Rakib"
 4.14.186-25578192 = "Shimanto Sir"
-4.19.136-perf+ = "Jubair"
+4.19.191+ = "Jubair"
 4.14.133+ = "Arman"
 4.14.141 = "RIFAT"
 4.14.141+ = "TASRIF"
