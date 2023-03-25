@@ -5,6 +5,7 @@
 4.19.127-perf-gf13f3dc0d21c = "Affan"
 3.18.14-14381225-QB31230477 = "jahaid"
 4.14.186-perf-ge395df9983b2 = "Mosiur"
+3.18.124-perf-g48df2b101839434350 = "Faruk"
 4.19.127-ge275d78fd-dirty = "vishal"
 4.14.117-perf-g02abc55 = "noman"
 4.4.177-22825772 = "Rakib"
