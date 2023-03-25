@@ -4,3 +4,5 @@ bs4
 colorama==0.4.4
 requests==2.25.1
 pyfiglet==0.8.post1
+YoutubeTags
+pytube
