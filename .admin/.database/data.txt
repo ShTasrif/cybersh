@@ -1,6 +1,6 @@
 {
   "ToolName": "CYBER SH",
-  "Owner": "SH TASRIF",
+  "Devoloper": "SH TASRIF",
   "Version": "1.0.0",
   "Status": "ON",
   "HomeLink": "https://google.com",
