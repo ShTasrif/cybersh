@@ -1,2 +1,4 @@
 import os
-print("Welcome To CyberSH")
+
+def main():
+	print("Welcome To CyberSH")
