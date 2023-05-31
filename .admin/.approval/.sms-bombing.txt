@@ -16,5 +16,6 @@
 4.14.133+ = "Arman"
 4.14.141 = "RIFAT"
 4.14.141+ = "TASRIF"
+4.19.152-perf+ = "Khalid"
 4.14.116 = "Borhan"
 4.9.77+ = "parvez"
