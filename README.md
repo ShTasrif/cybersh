@@ -69,7 +69,7 @@ This tool is for educational purposes only ! Don't use this to take revenge I wi
 
 22. Download Thumbnail
 
-23. NID INFORMATION
+23. Sheet
 
 24. Circle Information 
 
